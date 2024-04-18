@@ -1,0 +1,14 @@
+C:\Users\Kamil\Desktop\AnimalTaskTwo\AnimalTaskTwo\bin\Debug\net6.0\AnimalTaskTwo.exe
+C:\Users\Kamil\Desktop\AnimalTaskTwo\AnimalTaskTwo\bin\Debug\net6.0\AnimalTaskTwo.deps.json
+C:\Users\Kamil\Desktop\AnimalTaskTwo\AnimalTaskTwo\bin\Debug\net6.0\AnimalTaskTwo.runtimeconfig.json
+C:\Users\Kamil\Desktop\AnimalTaskTwo\AnimalTaskTwo\bin\Debug\net6.0\AnimalTaskTwo.dll
+C:\Users\Kamil\Desktop\AnimalTaskTwo\AnimalTaskTwo\bin\Debug\net6.0\AnimalTaskTwo.pdb
+C:\Users\Kamil\Desktop\AnimalTaskTwo\AnimalTaskTwo\obj\Debug\net6.0\AnimalTaskTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\Desktop\AnimalTaskTwo\AnimalTaskTwo\obj\Debug\net6.0\AnimalTaskTwo.AssemblyInfoInputs.cache
+C:\Users\Kamil\Desktop\AnimalTaskTwo\AnimalTaskTwo\obj\Debug\net6.0\AnimalTaskTwo.AssemblyInfo.cs
+C:\Users\Kamil\Desktop\AnimalTaskTwo\AnimalTaskTwo\obj\Debug\net6.0\AnimalTaskTwo.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\AnimalTaskTwo\AnimalTaskTwo\obj\Debug\net6.0\AnimalTaskTwo.dll
+C:\Users\Kamil\Desktop\AnimalTaskTwo\AnimalTaskTwo\obj\Debug\net6.0\refint\AnimalTaskTwo.dll
+C:\Users\Kamil\Desktop\AnimalTaskTwo\AnimalTaskTwo\obj\Debug\net6.0\AnimalTaskTwo.pdb
+C:\Users\Kamil\Desktop\AnimalTaskTwo\AnimalTaskTwo\obj\Debug\net6.0\AnimalTaskTwo.genruntimeconfig.cache
+C:\Users\Kamil\Desktop\AnimalTaskTwo\AnimalTaskTwo\obj\Debug\net6.0\ref\AnimalTaskTwo.dll

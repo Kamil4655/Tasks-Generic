@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kamil\\Desktop\\AnimalTaskTwo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53F4A1A2-0D4A-4E8A-A7D7-FAB49F82ECD8}|AnimalTaskTwo\\AnimalTaskTwo.csproj|c:\\users\\kamil\\desktop\\animaltasktwo\\animaltasktwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F4A1A2-0D4A-4E8A-A7D7-FAB49F82ECD8}|AnimalTaskTwo\\AnimalTaskTwo.csproj|solutionrelative:animaltasktwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F4A1A2-0D4A-4E8A-A7D7-FAB49F82ECD8}|AnimalTaskTwo\\AnimalTaskTwo.csproj|c:\\users\\kamil\\desktop\\animaltasktwo\\animaltasktwo\\modelss\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F4A1A2-0D4A-4E8A-A7D7-FAB49F82ECD8}|AnimalTaskTwo\\AnimalTaskTwo.csproj|solutionrelative:animaltasktwo\\modelss\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F4A1A2-0D4A-4E8A-A7D7-FAB49F82ECD8}|AnimalTaskTwo\\AnimalTaskTwo.csproj|c:\\users\\kamil\\desktop\\animaltasktwo\\animaltasktwo\\modelss\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F4A1A2-0D4A-4E8A-A7D7-FAB49F82ECD8}|AnimalTaskTwo\\AnimalTaskTwo.csproj|solutionrelative:animaltasktwo\\modelss\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F4A1A2-0D4A-4E8A-A7D7-FAB49F82ECD8}|AnimalTaskTwo\\AnimalTaskTwo.csproj|c:\\users\\kamil\\desktop\\animaltasktwo\\animaltasktwo\\modelss\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F4A1A2-0D4A-4E8A-A7D7-FAB49F82ECD8}|AnimalTaskTwo\\AnimalTaskTwo.csproj|solutionrelative:animaltasktwo\\modelss\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F4A1A2-0D4A-4E8A-A7D7-FAB49F82ECD8}|AnimalTaskTwo\\AnimalTaskTwo.csproj|c:\\users\\kamil\\desktop\\animaltasktwo\\animaltasktwo\\modelss\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F4A1A2-0D4A-4E8A-A7D7-FAB49F82ECD8}|AnimalTaskTwo\\AnimalTaskTwo.csproj|solutionrelative:animaltasktwo\\modelss\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F4A1A2-0D4A-4E8A-A7D7-FAB49F82ECD8}|AnimalTaskTwo\\AnimalTaskTwo.csproj|c:\\users\\kamil\\desktop\\animaltasktwo\\animaltasktwo\\modelss\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F4A1A2-0D4A-4E8A-A7D7-FAB49F82ECD8}|AnimalTaskTwo\\AnimalTaskTwo.csproj|solutionrelative:animaltasktwo\\modelss\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F4A1A2-0D4A-4E8A-A7D7-FAB49F82ECD8}|AnimalTaskTwo\\AnimalTaskTwo.csproj|c:\\users\\kamil\\desktop\\animaltasktwo\\animaltasktwo\\modelss\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F4A1A2-0D4A-4E8A-A7D7-FAB49F82ECD8}|AnimalTaskTwo\\AnimalTaskTwo.csproj|solutionrelative:animaltasktwo\\modelss\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lion.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\AnimalTaskTwo\\AnimalTaskTwo\\Modelss\\Lion.cs",
+              "RelativeDocumentMoniker": "AnimalTaskTwo\\Modelss\\Lion.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\AnimalTaskTwo\\AnimalTaskTwo\\Modelss\\Lion.cs",
+              "RelativeToolTip": "AnimalTaskTwo\\Modelss\\Lion.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T20:15:43.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cow.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\AnimalTaskTwo\\AnimalTaskTwo\\Modelss\\Cow.cs",
+              "RelativeDocumentMoniker": "AnimalTaskTwo\\Modelss\\Cow.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\AnimalTaskTwo\\AnimalTaskTwo\\Modelss\\Cow.cs",
+              "RelativeToolTip": "AnimalTaskTwo\\Modelss\\Cow.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T20:15:34.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\AnimalTaskTwo\\AnimalTaskTwo\\Modelss\\Animal.cs",
+              "RelativeDocumentMoniker": "AnimalTaskTwo\\Modelss\\Animal.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\AnimalTaskTwo\\AnimalTaskTwo\\Modelss\\Animal.cs",
+              "RelativeToolTip": "AnimalTaskTwo\\Modelss\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T20:15:12.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\AnimalTaskTwo\\AnimalTaskTwo\\Modelss\\Food.cs",
+              "RelativeDocumentMoniker": "AnimalTaskTwo\\Modelss\\Food.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\AnimalTaskTwo\\AnimalTaskTwo\\Modelss\\Food.cs",
+              "RelativeToolTip": "AnimalTaskTwo\\Modelss\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T20:13:32.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Meat.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\AnimalTaskTwo\\AnimalTaskTwo\\Modelss\\Meat.cs",
+              "RelativeDocumentMoniker": "AnimalTaskTwo\\Modelss\\Meat.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\AnimalTaskTwo\\AnimalTaskTwo\\Modelss\\Meat.cs",
+              "RelativeToolTip": "AnimalTaskTwo\\Modelss\\Meat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T20:14:48.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Grass.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\AnimalTaskTwo\\AnimalTaskTwo\\Modelss\\Grass.cs",
+              "RelativeDocumentMoniker": "AnimalTaskTwo\\Modelss\\Grass.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\AnimalTaskTwo\\AnimalTaskTwo\\Modelss\\Grass.cs",
+              "RelativeToolTip": "AnimalTaskTwo\\Modelss\\Grass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T20:14:15.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\AnimalTaskTwo\\AnimalTaskTwo\\Program.cs",
+              "RelativeDocumentMoniker": "AnimalTaskTwo\\Program.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\AnimalTaskTwo\\AnimalTaskTwo\\Program.cs",
+              "RelativeToolTip": "AnimalTaskTwo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T20:11:10.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
